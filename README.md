@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Use this template for all your "from scratch" deliverables. To start, simply run
+To start, simply run
 
 - `npm install`
 - `npm start`
@@ -26,7 +26,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## The Golden Rule: 
 
-🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
+ `Stop starting and start finishing.` 🏁
 
 If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
 
